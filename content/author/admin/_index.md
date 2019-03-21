@@ -85,5 +85,5 @@ interests = [
 
 +++
 
-I am a Ph.D. student in Robotics at the University of Minnesota IRV Lab... My research interests include the applications of computer vision, deep learning to robotics and underwater robotics. 
+I am a Ph.D. student in Robotics at the University of Minnesota IRV Lab. My research interests include the applications of computer vision, deep learning to robotics and underwater robotics. 
 
