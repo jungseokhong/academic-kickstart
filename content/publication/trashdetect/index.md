@@ -1,6 +1,6 @@
 +++
 title = "Robotic Detection of Marine Litter Using Deep Visual Detection Models"
-date = 2019-03-22T15:34:33-05:00
+date = 2019-03-20T15:34:33-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michael Fulton*", "Jungseok Hong*", "Junaed Sattar"]
