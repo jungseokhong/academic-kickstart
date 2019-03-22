@@ -3,7 +3,7 @@ title = "An Evaluation of Bayesian Methods for Bathymetry-based Localization of 
 date = 2019-03-22T14:36:25-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jungseok Hong:", "Michael Fulton", "Junaed Sattar"]
+authors = ["Jungseok Hong", "Michael Fulton", "Junaed Sattar"]
 
 # Publication type.
 # Legend:

@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Generating trash Data using GAN. Under construction"
+summary = "Under construction"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
