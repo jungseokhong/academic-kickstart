@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "This project is currently under initialization stage."
+summary = "I'm currently at the planning stage of this project."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
