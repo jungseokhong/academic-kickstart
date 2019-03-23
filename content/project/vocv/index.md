@@ -1,6 +1,6 @@
 +++
-title = "Underwater Object Detection"
-date = 2017-12-22T18:54:27-05:00
+title = "Visual Odometry Using a Stereo Camera"
+date = 2018-12-04T19:11:39-05:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "We developed deep learning models for the detection of marine debris and consider the exploration and summarization algorithms necessary to apply this visual trash recognition to the automated creation of trash cleanup plans."
+summary = "We implemented a stereo VO pipeline which estimates the pose of the camera using essential features in the images and estimates the motion of the camera. The major steps in the pipeline are feature extraction, feature matching, triangulation of landmarks, pose estimation using 3D-2D correspondences."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -25,7 +25,7 @@ external_link = ""
 url_pdf = ""
 url_code = ""
 url_dataset = ""
-url_slides = "https://docs.google.com/presentation/d/1W5Ru0iQwq62YxOm-jN4cIpYL6EqTdNg3OeVULRPiT_0/edit?usp=sharing"
+url_slides = "https://docs.google.com/presentation/d/1rAWCAwbUvSRxoT2xclcjfiriDwPX4j9RYxP8mfTFUZE/edit?usp=sharing"
 url_video = ""
 url_poster = ""
 
