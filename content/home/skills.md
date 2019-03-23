@@ -17,18 +17,36 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
-  
+  #description = "90%"
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "C++"
+#description = "100%"
+
+[[feature]]
+  icon = "laptop"
+  icon_pack = "fas"
+  name = "Tensorflow"
+#description = "100%"
+
+[[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Pytorch"
+#description = "100%"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  #description = "100%"
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "Robotics"
-  description = "80%"
+  #description = "80%"
 
 +++
