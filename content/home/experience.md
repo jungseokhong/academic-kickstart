@@ -61,4 +61,12 @@ date_format = "Jan 2006"
   date_end = "2017-12-31"
   description = ""
 
+[[experience]]
+  title = "EEL 3004 : Electrical Network"
+  company = "Professor Aman Behal, Instructor Azza Fahim"
+  company_url = ""
+  location = "University of Central Florida"
+  date_start = "2017-01-01"
+  date_end = "2017-05-31"
+  description = ""
 +++

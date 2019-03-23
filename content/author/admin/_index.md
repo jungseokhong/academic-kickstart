@@ -42,7 +42,7 @@ interests = [
   year = 2015
 
 [[education.courses]]
-  course = "BSc in Electrical Engineering (Minor in Mathematics)"
+  course = "BSc in Electrical Engineering"
   institution = "Sungkyunkwan University"
   year = 2015
 
