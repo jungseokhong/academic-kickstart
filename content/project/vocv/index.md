@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Computer Vision"]
 
 # Project summary to display on homepage.
 summary = "We implemented a stereo VO pipeline which estimates the pose of the camera using essential features in the images and estimates the motion of the camera. The major steps in the pipeline are feature extraction, feature matching, triangulation of landmarks, pose estimation using 3D-2D correspondences."

@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Localization"]
 
 # Project summary to display on homepage.
 summary = "We developed an acoustic localization algorithm estimating the location of AUVs with recorded acoustic signals by applying acoustic signal modeling, acoustic propagation modeling, power spectral density analysis."

@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Localization"]
 
 # Project summary to display on homepage.
 summary = "We developed an application of Monte-Carlo Localization (MCL) methods, utilizing depth information from pressure and sonar sensors. We evaluate this method using simple sensor noise and movement models and real bathymetric measurements from Minnesota lakes."
