@@ -13,7 +13,7 @@ role = "Ph.D. student in Robotics"
 organizations = [ { name = "University of Minneosta IRV Lab", url = "irvlab.cs.umn.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include applying computer vision and deep learning to robotics."
+bio = "My research interests focus on applying computer vision and deep learning to robotics."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "jungseok@umn.edu"
