@@ -10,10 +10,21 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.tutorial]
-  name = "Overview"
+  name = "Topics"
   weight = 1
 +++
 
+I am updating this tutorial occasionally and the most of the information is from references that I provide together.
+
+It covers several topics such as:
+
+* **Computer Vision**
+* **Deep learning**
+* **SLAM**
+* **Bayesian filters**
+* **Machine learning**
+
+<!---
 This feature can be used for publishing content such as:
 
 * **Project or software documentation**
@@ -25,3 +36,4 @@ The parent folder may be renamed, for example, to `docs` for project documentati
 To disable this feature, either delete the parent folder, or set `draft = true` in the front matter of all its pages. 
 
 After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
+-->
