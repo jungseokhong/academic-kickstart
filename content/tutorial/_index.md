@@ -14,13 +14,14 @@ type = "docs"  # Do not modify.
   weight = 1
 +++
 
-I am updating this tutorial occasionally and the most of the information is from references that I provide together.
+I am updating this tutorial occasionally and most of the information came from references in each section.
 
-It covers several topics such as:
+This tutorial covers/will cover various topics including, but not limited to:
 
 * **Computer Vision**
 * **Deep learning**
 * **SLAM**
+* **Localization**
 * **Bayesian filters**
 * **Machine learning**
 
