@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "University of Minnesota"
   date_start = "2019-01-20"
-  date_end = ""
+  date_end = "2019-05-31"
   description = ""
 #  Responsibilities include:
   
