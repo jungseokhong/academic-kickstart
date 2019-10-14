@@ -3,7 +3,7 @@ title = "Trashvae"
 date = 2019-10-13T20:37:43-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jungseok Hong*", "Michael Fulton", "Junaed Sattar"]
+authors = ["Jungseok Hong", "Michael Fulton", "Junaed Sattar"]
 
 # Publication type.
 # Legend:
