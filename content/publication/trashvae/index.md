@@ -1,5 +1,5 @@
 +++
-title = "Trashvae"
+title = "A Generative Approach Towards Improved Robotic Detection of Marine Litter"
 date = 2019-10-13T20:37:43-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
